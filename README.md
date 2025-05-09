@@ -1,2 +1,2 @@
 # custom-widgets
-custom design sections for any theme
+the custom widgets extension provides a different design section.
